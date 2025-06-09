@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nama": "Langit Ciburuy", "elevasi": 1961, "bortle": 4, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.485291817147868, -6.821371655929792 ] } },
+{ "type": "Feature", "properties": { "nama": "Bukit Bintang", "elevasi": 1086, "bortle": 2, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.538692219780785, -6.846985167723949 ] } },
+{ "type": "Feature", "properties": { "nama": "Gunung Batu", "elevasi": 1963, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.400816482940144, -6.772237201048306 ] } },
+{ "type": "Feature", "properties": { "nama": "Situ Lembang", "elevasi": 1470, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.530612812865442, -6.865581362577944 ] } },
+{ "type": "Feature", "properties": { "nama": "Hutan Jayagiri", "elevasi": 1334, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.554844859129588, -6.801650907702962 ] } },
+{ "type": "Feature", "properties": { "nama": "Perkebunan Teh Sukawana", "elevasi": 1551, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.495042377467655, -6.801624416511501 ] } },
+{ "type": "Feature", "properties": { "nama": "Puncak Eurad", "elevasi": 1624, "bortle": 4, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.425086264067318, -6.7705201711203 ] } },
+{ "type": "Feature", "properties": { "nama": "Palintang", "elevasi": 1527, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.454360122375007, -6.81737785879105 ] } },
+{ "type": "Feature", "properties": { "nama": "Gunung Putri", "elevasi": 1030, "bortle": 2, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.542082790498654, -6.832573278002019 ] } },
+{ "type": "Feature", "properties": { "nama": "Gunung Tangkuban Perahu", "elevasi": 1113, "bortle": 2, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.513235788757441, -6.910150082538211 ] } },
+{ "type": "Feature", "properties": { "nama": "Kampung Cai Rancaupas", "elevasi": 1120, "bortle": 2, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.54468315014725, -6.758673810343772 ] } },
+{ "type": "Feature", "properties": { "nama": "Gunung Burangrang", "elevasi": 1692, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.491121241584253, -6.832070648251912 ] } },
+{ "type": "Feature", "properties": { "nama": "Ciweday Skyview", "elevasi": 1600, "bortle": 2, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.44866395794844, -6.786496049284498 ] } },
+{ "type": "Feature", "properties": { "nama": "Cisarua Ridge", "elevasi": 1965, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.51618886976253, -6.795796622190226 ] } },
+{ "type": "Feature", "properties": { "nama": "Gunung Halu", "elevasi": 1550, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.395, -7.017 ] } },
+{ "type": "Feature", "properties": { "nama": "Desa Cilangari", "elevasi": 1250, "bortle": 4, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.489, -7.029 ] } },
+{ "type": "Feature", "properties": { "nama": "Gunung Kancana", "elevasi": 1680, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.453, -7.001 ] } },
+{ "type": "Feature", "properties": { "nama": "Gunung Puntang", "elevasi": 1290, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.615, -7.0675 ] } },
+{ "type": "Feature", "properties": { "nama": "Perkebunan Teh Malabar", "elevasi": 1550, "bortle": 2, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.6088, -7.1146 ] } },
+{ "type": "Feature", "properties": { "nama": "Hutan Pinus Rahong", "elevasi": 1300, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.5912, -7.1269 ] } },
+{ "type": "Feature", "properties": { "nama": "Pangalengan Highlands", "elevasi": 1400, "bortle": 2, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.567, -7.1375 ] } },
+{ "type": "Feature", "properties": { "nama": "Situ Cileunca", "elevasi": 1550, "bortle": 3, "arah": "Selatan", "waktu": "April - Agustus" }, "geometry": { "type": "Point", "coordinates": [ 107.5558, -7.1631 ] } }
+]
+}
